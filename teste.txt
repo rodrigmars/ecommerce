@@ -1,1 +1,3 @@
-teste
+pwd: ver diretório atual
+mkdir: criar diretório
+rm: apagar arquivo(rm -r: apagar diretorio e todo o conteudo)
